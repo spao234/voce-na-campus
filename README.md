@@ -26,8 +26,8 @@ x
 ```
 ## Regras
 - Preencher a Resposta,  Nome e Twitter ou LinkedIn (ou os dois),
-- O concurso fecha as 23:00 do sábado, dia 5 de Novembro.
-- Pessoas ganhadoras serão anunciadas no Twitter e no LinkedIn GitHub brasil, na terça-feira,  dia 8 de Novembro.
+- O concurso fecha as 23:00 da segunda-feira, dia 31 de Outubro.
+- Pessoas ganhadoras serão anunciadas no Twitter e no LinkedIn GitHub brasil, na quarta-feira,  dia 2 de Novembro.
 - Pessoas ganhadoras serão escolhidas com base em criatividade, pela comissão de Midias Sociais GitHub Brasil.
 
 # Porque você merece ir pra Campus Party com o GitHub?
