@@ -9,12 +9,16 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 - Preencha com sua resposta e suas informações.
 ```
 Exemplo:
-**Resposta:** 
-**Nome:**
-**Twitter:**
-**LinkedIn:** 
 
+**Resposta:** 
+
+**Nome:**
+
+**Twitter:**
+
+**LinkedIn:** 
 -----------
+
 ```
 ## Regras
 - Preencher a Resposta,  Nome e Twitter ou LinkedIn (ou os dois),
@@ -24,14 +28,20 @@ Exemplo:
 
 # Porque você merece ir pra Campus Party com o GitHub?
 **Resposta:** "Eu mereço ir na Campus Party com o GitHub porque eu sou legal e trabalho na GitHub" 
-**Nome:** @pachicodes 
-**Twitter:** https://twitter.com/pachicodes
-**LinkedIn:**  https://www.linkedin.com/in/pachicodes/
 
+**Nome:** @pachicodes 
+
+**Twitter:** https://twitter.com/pachicodes
+
+**LinkedIn:**  https://www.linkedin.com/in/pachicodes/
 -----------
+
 **Resposta:** 
+
 **Nome:**
+
 **Twitter:**
+
 **LinkedIn:** 
 
 -----------
