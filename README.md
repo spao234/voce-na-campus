@@ -20,13 +20,19 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 ## Respostas:
 
 *Resposta*: "Eu mereço ir na Campus Party com o GitHub porque eu sou legal e trabalho na GitHub" 
-*Nome*: @pachicodes 
+
+*Nome*: @pachicodes  
+
 *Twitter*: https://twitter.com/pachicodes
+
 *LinkedIn*:  https://www.linkedin.com/in/pachicodes/
 
 -----------
 *Resposta*: "Eu mereço ir na Campus Party com o GitHub porque ..." 
+
 *Nome*: 
+
 *Twitter*:
+
 *LinkedIn*: 
 -----------
