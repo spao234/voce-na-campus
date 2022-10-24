@@ -12,15 +12,16 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 *Nome*: 
 *Twitter*:
 *LinkedIn*: 
+
 -----------
 ```
 
 # Porque você merece ir pra Campus Party com o GitHub?
 ## Respostas:
 
-*Resposta*: "Eu mereço ir na Campus Party com o GitHub porque ..." 
-*Nome*: 
-*Twitter*:
-*LinkedIn*: 
+*Resposta*: "Eu mereço ir na Campus Party com o GitHub porque eu sou legal e trabalho na GitHub" 
+*Nome*: @pachicodes 
+*Twitter*: https://twitter.com/pachicodes
+*LinkedIn*:  https://www.linkedin.com/in/pachicodes/
 
 -----------
