@@ -17,7 +17,8 @@ Exemplo:
 **Twitter:**
 
 **LinkedIn:** 
------------
+
+x
 
 ```
 ## Regras
@@ -34,7 +35,8 @@ Exemplo:
 **Twitter:** https://twitter.com/pachicodes
 
 **LinkedIn:**  https://www.linkedin.com/in/pachicodes/
------------
+
+x
 
 **Resposta:** 
 
@@ -44,4 +46,4 @@ Exemplo:
 
 **LinkedIn:** 
 
------------
+x
