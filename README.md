@@ -7,6 +7,9 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 - Copie  o exemplo abaixo, 
 - Copie o exemplo abaixo do Título **Porque você merece ir pra Campus Party com a GitHub?**,
 - Preencha com sua resposta e suas informações.
+
+P.S. Se você participar até dia 31 de Outubro, ainda ganha mais um PR para o hacktoberFest
+
 ```
 Exemplo:
 
