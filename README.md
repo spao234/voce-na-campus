@@ -12,8 +12,8 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 *Nome*: 
 *Twitter*:
 *LinkedIn*: 
-
 -----------
+
 ```
 
 # Porque você merece ir pra Campus Party com o GitHub?
@@ -24,4 +24,9 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 *Twitter*: https://twitter.com/pachicodes
 *LinkedIn*:  https://www.linkedin.com/in/pachicodes/
 
+-----------
+*Resposta*: "Eu mereço ir na Campus Party com o GitHub porque ..." 
+*Nome*: 
+*Twitter*:
+*LinkedIn*: 
 -----------
