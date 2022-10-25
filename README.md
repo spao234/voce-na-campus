@@ -3,7 +3,7 @@ GitHub Brasil + GitHub Education querem te ver na Campus Party https://brasil.ca
 Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondendo a pergunta: **Porque você merece ir pra Campus Party com a GitHub?**
 
 ## Como Participar: 
-Você [pode assistir esse video](https://www.loom.com/share/336da373673c4ddb863909c322e78a11) em caso de duvidas de como fazer seu Pull Request.
+Você [pode assistir esse video]([https://www.loom.com/share/336da373673c4ddb863909c322e78a11](https://www.loom.com/share/6e781637cb0b4c36b3089054d20183f3)) em caso de duvidas de como fazer seu Pull Request.
 - Clone esse repositório,
 - Copie  o exemplo abaixo, 
 - Copie o exemplo abaixo do Título **Porque você merece ir pra Campus Party com a GitHub?**,
