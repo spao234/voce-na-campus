@@ -13,7 +13,7 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 
 ## Como Participar: 
 
-[![logo github brasil](https://twitter.com/GitHubBrasil/photo)]([https://www.loom.com/share/6e781637cb0b4c36b3089054d20183f3]
+[![logo github brasil](https://twitter.com/GitHubBrasil/photo)](https://www.loom.com/share/6e781637cb0b4c36b3089054d20183f3)
 
 Você [pode assistir esse video](https://www.loom.com/share/6e781637cb0b4c36b3089054d20183f3) em caso de duvidas de como fazer seu Pull Request.
 - Clone esse repositório,
