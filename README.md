@@ -1,6 +1,6 @@
 # Você na Campus
 GitHub Brasil + GitHub Education querem te ver na [Campus Party](https://brasil.campus-party.org/cpbr14/) !
-Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondendo a pergunta: **Porque você merece ir pra Campus Party com a GitHub?**
+Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondendo a pergunta: **Por que você merece ir pra Campus Party com o GitHub?**
 
 
 ## Regras
@@ -13,15 +13,15 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 
 ## Como Participar: 
 Você [pode assistir esse video](https://youtu.be/rYdyWpBXPHc) em caso de duvidas de como fazer seu Pull Request.
-[<img src="https://twitter.com/GitHubBrasil/photo" width="50%">](https://youtu.be/rYdyWpBXPHc "Como participar do concurso: Você na Campus com Github!")
+[<img src="https://twitter.com/GitHubBrasil/photo" width="50%">](https://youtu.be/rYdyWpBXPHc "Como participar do concurso: Você na Campus com o Github!")
 
 ### Passos
 - Clone esse repositório,
 - Copie  o exemplo abaixo, 
-- Cole o exemplo abaixo do Título **Porque você merece ir pra Campus Party com a GitHub?** depois do último x,
+- Cole o exemplo abaixo do Título **Por que você merece ir pra Campus Party com o GitHub?** depois do último x,
 - Preencha com sua resposta e suas informações.
 
-P.S. Se você participar até dia 31 de Outubro, ainda ganha mais um PR para o hacktoberFest
+P.S. Se você participar até dia 31 de Outubro, ainda ganha mais um PR para o HacktoberFest
 
 ```
 Exemplo:
@@ -34,12 +34,13 @@ Exemplo:
 
 **LinkedIn:** 
 
+
 x
 
 ```
 
-# Porque você merece ir pra Campus Party com o GitHub?
-**Resposta:** "Eu mereço ir na Campus Party com o GitHub porque eu sou legal e trabalho na GitHub" 
+# Por que você merece ir pra Campus Party com o GitHub?
+**Resposta:** "Eu mereço ir na Campus Party com o GitHub porque eu sou legal e trabalho no GitHub" 
 
 **Nome:** @pachicodes 
 
