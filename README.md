@@ -6,7 +6,7 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 Você [pode assistir esse video](https://www.loom.com/share/336da373673c4ddb863909c322e78a11) em caso de duvidas de como fazer seu Pull Request.
 - Clone esse repositório,
 - Copie  o exemplo abaixo, 
-- Copie o exemplo abaixo do Título **Porque você merece ir pra Campus Party com a GitHub?**,
+- Cole o exemplo abaixo do Título **Porque você merece ir pra Campus Party com a GitHub?**,
 - Preencha com sua resposta e suas informações.
 
 P.S. Se você participar até dia 31 de Outubro, ainda ganha mais um PR para o hacktoberFest
@@ -42,12 +42,14 @@ x
 
 x
 
-**Resposta:** 
+**Resposta:** Eu mereço ir na Campus porque eu sou legal
 
-**Nome:**
+**Nome:** Patricia eu
 
-**Twitter:**
+**Twitter:** https://twitter.com/pachicodes
 
-**LinkedIn:** 
+**LinkedIn:** https://www.linkedin.com/in/pachicodes/
+
 
 x
+
