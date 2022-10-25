@@ -2,6 +2,7 @@
 GitHub Brasil + GitHub Education querem te ver na [Campus Party](https://brasil.campus-party.org/cpbr14/) !
 Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondendo a pergunta: **Porque você merece ir pra Campus Party com a GitHub?**
 
+
 ## Regras
 - Preencher a Resposta,  Nome e Twitter ou LinkedIn (ou os dois),
 - O concurso fecha as 23:00 da segunda-feira, dia 31 de Outubro.
@@ -11,8 +12,9 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 - Transporte, alimentação, colchão e qualquer coisa além do ingresso, é por conta da pessoas ganhadora.
 
 ## Como Participar: 
-[![Watch the video](https://youtu.be/vt5fpE0bzSY)](https://www.loom.com/share/336da373673c4ddb863909c322e78a11))
-Você [pode assistir esse video]([](https://www.loom.com/share/6e781637cb0b4c36b3089054d20183f3)) em caso de duvidas de como fazer seu Pull Request.
+
+[![logo github brasil](https://twitter.com/GitHubBrasil/photo)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.loom.com/share/6e781637cb0b4c36b3089054d20183f3))
+Você [pode assistir esse video]([]()) em caso de duvidas de como fazer seu Pull Request.
 - Clone esse repositório,
 - Copie  o exemplo abaixo, 
 - Cole o exemplo abaixo do Título **Porque você merece ir pra Campus Party com a GitHub?** depois do último x,
