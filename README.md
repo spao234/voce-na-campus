@@ -12,10 +12,10 @@ Temos alguns ingresso para compartilhar, e você pode garantir o seu, respondend
 - Transporte, alimentação, colchão e qualquer coisa além do ingresso, é por conta da pessoas ganhadora.
 
 ## Como Participar: 
+Você [pode assistir esse video](https://youtu.be/rYdyWpBXPHc) em caso de duvidas de como fazer seu Pull Request.
+[<img src="https://twitter.com/GitHubBrasil/photo" width="50%">](https://youtu.be/rYdyWpBXPHc "Como participar do concurso: Você na Campus com Github!")
 
-[![logo github brasil](https://twitter.com/GitHubBrasil/photo)]
-
-Você [pode assistir esse video](https://www.loom.com/share/6e781637cb0b4c36b3089054d20183f3) em caso de duvidas de como fazer seu Pull Request.
+### Passos
 - Clone esse repositório,
 - Copie  o exemplo abaixo, 
 - Cole o exemplo abaixo do Título **Porque você merece ir pra Campus Party com a GitHub?** depois do último x,
