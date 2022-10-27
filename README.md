@@ -49,3 +49,11 @@ x
 **LinkedIn:**  https://www.linkedin.com/in/pachicodes/
 
 x
+
+**Resposta:** "Eu como nerd / geek mereço ir para a Campus Party Brasil pois sou muito fã do evento a anos. Além de adorar o GitHub e todas as suas funcionalidades" 
+
+**Nome:** Wanderson Vitorino
+
+**Twitter:** https://twitter.com/trindadewander
+
+**LinkedIn:**  https://www.linkedin.com/in/wanderson-trindade-vitorino/
